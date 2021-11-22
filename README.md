@@ -11,4 +11,5 @@ Instructions:
 
 Usage:
   ./a.out path_to_file language_code output_dir
+  
   example: ./a.out ~/.wine/GOG\ Games/The\ Witcher\ 3\ Wild\ Hunt\ GOTY/dlc/bob/content/enpc.w3speech en audio
